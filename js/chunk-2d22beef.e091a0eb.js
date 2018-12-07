@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22beef"],{f0a0:function(e,n,t){"use strict";t.r(n);var l=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("h1",[e._v("帮助中心")])},u=[],c=t("2877"),o={},r=Object(c["a"])(o,l,u,!1,null,null,null);r.options.__file="Helper.vue";n["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d22beef.e091a0eb.js.map
